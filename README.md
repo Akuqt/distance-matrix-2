@@ -1,4 +1,4 @@
-[![Version][npm version]][npm url] ![License][license] [![test][test workflow]][test result] [![Coverage Status][coverage logo]][coverage url]
+[![Version][npm version]][npm url] ![License][license] [![test][test workflow]][test result]
 
 # Distance Matrix API v2
 
@@ -71,5 +71,3 @@ MIT
 [npm version]: https://img.shields.io/npm/v/distance-matrix-2.svg?logo=npm
 [npm url]: https://www.npmjs.com/package/distance-matrix-2
 [license]: https://img.shields.io/npm/l/distance-matrix-2
-[coverage logo]: https://coveralls.io/repos/github/Akuqt/distance-matrix-2/badge.svg?branch=master
-[coverage url]: https://coveralls.io/github/Akuqt/distance-matrix-2
