@@ -1,4 +1,4 @@
-import DistanceMatrixService from "../src";
+import { DistanceMatrixService } from "../src";
 import { options } from "./helper";
 
 describe("Distance matrix service", () => {

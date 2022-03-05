@@ -5,7 +5,7 @@ import {
   DistanceMatrixOptions,
 } from "./common";
 
-export default class DistanceMatrixService {
+export class DistanceMatrixService {
   private key: string | undefined;
 
   constructor(key?: string) {
