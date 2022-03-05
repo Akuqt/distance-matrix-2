@@ -66,7 +66,7 @@ Updated version of some distance matrix apis.
 MIT
 
 [google docs]: https://developers.google.com/maps/documentation/distance-matrix/overview
-[test workflow]: https://github.com/Aku-mi/distance-matrix-2/actions/workflows/test.yml/badge.svg
+[test workflow]: https://github.com/Akuqt/distance-matrix-2/actions/workflows/test.yml/badge.svg
 [test result]: https://github.com/Akuqt/distance-matrix-2/actions/workflows/test.yml
 [npm version]: https://img.shields.io/npm/v/distance-matrix-2.svg?logo=npm
 [npm url]: https://www.npmjs.com/package/distance-matrix-2
