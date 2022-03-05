@@ -29,7 +29,7 @@ When creating a new instance of the distance matrix service, you can optionally 
 - Connection status.
 
 ```js
-import DistanceMatrixService from "distance-matrix-2";
+import { DistanceMatrixService } from "distance-matrix-2";
 
 // You can pass the api key via constructor.
 const service = new DistanceMatrixService(process.env.API_KEY);
@@ -59,7 +59,9 @@ console.log(res.rows);
 
 # Notes
 
-Updated version of some distance matrix apis.
+- Updated version of some distance matrix apis.
+
+- Version 1.0.0 is broken, don't use it.
 
 # Licence
 
